@@ -1,0 +1,14 @@
+{
+  "name": "review3",
+  "version": "1.0.0",
+  "description": "sound wave => [1,2,3] min fq = 50 max fq = 80",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-node": "^3.0.0"
+  }
+}
